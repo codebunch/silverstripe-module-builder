@@ -30,7 +30,7 @@ Place it in root folder
 ./module-builder.sh namespace module-name
 
 example -
-./module-builder.sh beamjuice new-module
+./module-builder.sh beanjuice new-module
 ```
 
 ## Screenprints
