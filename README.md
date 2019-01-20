@@ -37,5 +37,14 @@ example -
 
 To be added
 
+## Contributing
+
+Your contributions are most welcome! 
+
+* use the project for your business
+* star the project
+* report issues to the project issues page
+* README & documentation enhancement (via PR)
+* new feature or bug fixing via a PR
 
 
